@@ -1,0 +1,5 @@
+Dia 1 
+Pensamento Computacional
+Lógica de Programação Essencial
+Introdução ao Git e ao GitHub
+Projetos ágeis com SCRUM.
